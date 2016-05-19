@@ -41,6 +41,10 @@ section Title {
 	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
+dl{
+	margin-left: 15px;
+}
+
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
